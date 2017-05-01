@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MisLugares</string>
+    <string name="nombre_text">Nombre:</string>
+    <string name="nombre_edit">algo que identifique el lugar</string>
+    <string name="tipo_text">Tipo:</string>
+    <string name="direccion_text">Dirección:</string>
+    <string name="direccion_edit">dirección del lugar</string>
+    <string name="telefono_text">Telefono:</string>
+    <string name="telefono_edit">telefono para contactar</string>
+    <string name="url_text">Url:</string>
+    <string name="url_edit">página web</string>
+    <string name="comentario_text">Comentario:</string>
+    <string name="comentario_edit">introduce tus notas</string>
+</resources>
